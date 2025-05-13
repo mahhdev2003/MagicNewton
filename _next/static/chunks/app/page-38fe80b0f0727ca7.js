@@ -611,7 +611,7 @@
                             children: [
                               (0, t.jsx)("p", {
                                 children:
-                                  "Magic Newton is designed to put users first by automating crypto and putting your financial freedom on autopilot. You can set Newton to do all the work for you, executing the strategies you choose 24/7.",
+                                  "Magic Newton AI is designed to put users first by automating crypto and putting your financial freedom on autopilot. You can set Newton to do all the work for you, executing the strategies you choose 24/7.",
                               }),
                               (0, t.jsx)("p", {
                                 children:
@@ -966,7 +966,7 @@
                         className: "text-[.75rem] text-[#B6B4BA]",
                         children: (0, t.jsxs)("p", {
                           children: [
-                            "\xa9 2025 Magic Newton, Inc. 548 Market St., PMB 31387",
+                            "\xa9 2025 Magic Newton AI, Inc. 548 Market St., PMB 31387",
                             (0, t.jsx)("br", {}),
                             " San Francisco, California 94104-5401",
                           ],
