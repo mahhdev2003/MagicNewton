@@ -494,12 +494,12 @@
                       (0, t.jsx)("div", {
                         className: "flex justify-center mt-[2.5rem]",
                         children: (0, t.jsxs)("a", {
-                          href: "https://newton.xyz",
+                          href: "https://app.newton.vip",
                           className: "button-shiny",
                           target: "_blank",
-                          "aria-label": "Launch Newton.xyz",
+                          "aria-label": "Launch App",
                           children: [
-                            "Launch Newton.xyz ",
+                            "Launch App ",
                             (0, t.jsx)(o.default, {
                               src: j,
                               alt: "New Window",
@@ -514,7 +514,7 @@
                           "flex justify-center gap-2 mt-[2.5rem] mb-auto pb-[2.5rem]",
                         children: [
                           (0, t.jsx)("a", {
-                            href: "https://x.com/MagicNewton",
+                            href: "https://x.com/NewtonErc20",
                             target: "_blank",
                             className: "button-shiny flat-border",
                             "aria-label": "Visit Newton's X page",
@@ -526,12 +526,60 @@
                             }),
                           }),
                           (0, t.jsx)("a", {
-                            href: "https://discord.gg/magicnewton",
+                            href: "https://t.me/magic_newton_eth",
                             target: "_blank",
                             className: "button-shiny flat-border",
                             "aria-label": "Join Newton's Discord server",
                             children: (0, t.jsx)(o.default, {
                               src: N,
+                              alt: "Discord",
+                              width: 16,
+                              height: 16,
+                            }),
+                          }),
+                          (0, t.jsx)("a", {
+                            href: "https://medium.com/@adonis.roma99",
+                            target: "_blank",
+                            className: "button-shiny flat-border",
+                            "aria-label": "Join Newton's Discord server",
+                            children: (0, t.jsx)(o.default, {
+                              src: "img/medium.png",
+                              alt: "Discord",
+                              width: 16,
+                              height: 16,
+                            }),
+                          }),
+                          (0, t.jsx)("a", {
+                            href: "https://www.youtube.com/@newton_eth",
+                            target: "_blank",
+                            className: "button-shiny flat-border",
+                            "aria-label": "Join Newton's Discord server",
+                            children: (0, t.jsx)(o.default, {
+                              src: "img/youtube.png",
+                              alt: "Discord",
+                              width: 16,
+                              height: 16,
+                            }),
+                          }),
+                          (0, t.jsx)("a", {
+                            href: "https://linktr.ee/newton_eth",
+                            target: "_blank",
+                            className: "button-shiny flat-border",
+                            "aria-label": "Join Newton's Discord server",
+                            children: (0, t.jsx)(o.default, {
+                              src: "img/linktree.png",
+                              alt: "Discord",
+                              width: 16,
+                              height: 16,
+                            }),
+                          }),
+                          (0, t.jsx)("a", {
+                            href: "https://dextools.io/app/en/ether/pair-explorer/0xTBA",
+                            target: "_blank",
+                            className: "button-shiny flat-border",
+                            "aria-label": "Join Newton's Discord server",
+                            children: (0, t.jsx)(o.default, {
+                              src: "img/dextool.png",
                               alt: "Discord",
                               width: 16,
                               height: 16,
@@ -576,12 +624,12 @@
                             children: (0, t.jsx)("div", {
                               className: "w-auto mt-[2rem]",
                               children: (0, t.jsxs)("a", {
-                                href: "https://newton.xyz",
+                                href: "https://app.newtonai.vip",
                                 target: "_blank",
                                 className: "button-white",
-                                "aria-label": "Launch Newton.xyz",
+                                "aria-label": "Launch App",
                                 children: [
-                                  "Launch Newton.xyz ",
+                                  "Launch App ",
                                   (0, t.jsx)(o.default, {
                                     src: w,
                                     alt: "New Window",
@@ -754,11 +802,11 @@
                             children: (0, t.jsx)("div", {
                               className: "w-auto mt-[1.5rem]",
                               children: (0, t.jsxs)("a", {
-                                href: "https://magic.link",
+                                href: "https://docs.newtonai.vip",
                                 className: "button-white",
-                                "aria-label": "Learn more about Magic Labs",
+                                "aria-label": "Learn More",
                                 children: [
-                                  "More about magic labs ",
+                                  "Learn More ",
                                   (0, t.jsx)(o.default, {
                                     src: w,
                                     alt: "New Window",
@@ -807,12 +855,12 @@
                       (0, t.jsx)("section", {
                         className: "flex justify-center mt-[2.5rem]",
                         children: (0, t.jsxs)("a", {
-                          href: "https://magicnewton.com/portal",
+                          href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xTBA",
                           className: "button-shiny",
                           target: "_blank",
                           "aria-label": "Launch Newton Portal",
                           children: [
-                            "Looking for Portal? ",
+                            "BUY NOW ",
                             (0, t.jsx)(o.default, {
                               src: j,
                               alt: "New Window",
@@ -826,7 +874,7 @@
                         className: "flex justify-center gap-2 mt-[2.5rem]",
                         children: [
                           (0, t.jsx)("a", {
-                            href: "https://x.com/MagicNewton",
+                            href: "https://x.com/NewtonErc20",
                             target: "_blank",
                             className: "button-shiny flat-border",
                             "aria-label": "Visit Newton's X page",
@@ -838,12 +886,60 @@
                             }),
                           }),
                           (0, t.jsx)("a", {
-                            href: "https://discord.gg/magicnewton",
+                            href: "https://t.me/magic_newton_eth",
                             target: "_blank",
                             className: "button-shiny flat-border",
                             "aria-label": "Join Newton's Discord server",
                             children: (0, t.jsx)(o.default, {
                               src: N,
+                              alt: "Discord",
+                              width: 16,
+                              height: 16,
+                            }),
+                          }),
+                          (0, t.jsx)("a", {
+                            href: "https://medium.com/@adonis.roma99",
+                            target: "_blank",
+                            className: "button-shiny flat-border",
+                            "aria-label": "Join Newton's Discord server",
+                            children: (0, t.jsx)(o.default, {
+                              src: "img/medium.png",
+                              alt: "Discord",
+                              width: 16,
+                              height: 16,
+                            }),
+                          }),
+                          (0, t.jsx)("a", {
+                            href: "https://www.youtube.com/@newton_eth",
+                            target: "_blank",
+                            className: "button-shiny flat-border",
+                            "aria-label": "Join Newton's Discord server",
+                            children: (0, t.jsx)(o.default, {
+                              src: "img/youtube.png",
+                              alt: "Discord",
+                              width: 16,
+                              height: 16,
+                            }),
+                          }),
+                          (0, t.jsx)("a", {
+                            href: "https://linktr.ee/newton_eth",
+                            target: "_blank",
+                            className: "button-shiny flat-border",
+                            "aria-label": "Join Newton's Discord server",
+                            children: (0, t.jsx)(o.default, {
+                              src: "img/linktree.png",
+                              alt: "Discord",
+                              width: 16,
+                              height: 16,
+                            }),
+                          }),
+                          (0, t.jsx)("a", {
+                            href: "https://dextools.io/app/en/ether/pair-explorer/0xTBA",
+                            target: "_blank",
+                            className: "button-shiny flat-border",
+                            "aria-label": "Join Newton's Discord server",
+                            children: (0, t.jsx)(o.default, {
+                              src: "img/dextool.png",
                               alt: "Discord",
                               width: 16,
                               height: 16,

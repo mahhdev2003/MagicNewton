@@ -1,0 +1,15 @@
+Origin :
+
+website :
+https://www.magicnewton.com/
+
+X:
+https://x.com/NewtonErc20
+
+name :
+magicnewton
+
+ticker:
+Newton
+
+
