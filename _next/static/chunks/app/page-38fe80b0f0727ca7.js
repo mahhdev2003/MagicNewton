@@ -494,7 +494,7 @@
                       (0, t.jsx)("div", {
                         className: "flex justify-center mt-[2.5rem]",
                         children: (0, t.jsxs)("a", {
-                          href: "https://app.newton.vip",
+                          href: "https://app.newtonai.vip",
                           className: "button-shiny",
                           target: "_blank",
                           "aria-label": "Launch App",
