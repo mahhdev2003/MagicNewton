@@ -574,7 +574,7 @@
                             }),
                           }),
                           (0, t.jsx)("a", {
-                            href: "https://dextools.io/app/en/ether/pair-explorer/0x2db2e8799e443ab229a31302d60222391577d1a2",
+                            href: "https://dextools.io/app/en/ether/pair-explorer/0x0c3dd50c45d353c76c5b3582f054af65c213454e",
                             target: "_blank",
                             className: "button-shiny flat-border",
                             "aria-label": "Join Newton's Discord server",
@@ -855,7 +855,7 @@
                       (0, t.jsx)("section", {
                         className: "flex justify-center mt-[2.5rem]",
                         children: (0, t.jsxs)("a", {
-                          href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x2db2e8799e443ab229a31302d60222391577d1a2",
+                          href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x0c3dd50c45d353c76c5b3582f054af65c213454e",
                           className: "button-shiny",
                           target: "_blank",
                           "aria-label": "Launch Newton Portal",
@@ -934,7 +934,7 @@
                             }),
                           }),
                           (0, t.jsx)("a", {
-                            href: "https://dextools.io/app/en/ether/pair-explorer/0x2db2e8799e443ab229a31302d60222391577d1a2",
+                            href: "https://dextools.io/app/en/ether/pair-explorer/0x0c3dd50c45d353c76c5b3582f054af65c213454e",
                             target: "_blank",
                             className: "button-shiny flat-border",
                             "aria-label": "Join Newton's Discord server",
